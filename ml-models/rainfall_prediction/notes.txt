@@ -1,0 +1,20 @@
+python rainfall_prediction.py "MADHYA MAHARASHTRA" JUL
+
+python rainfall_prediction.py "VIDARBHA" AUG
+
+
+python rainfall_prediction.py "KONKAN & GOA" JUL
+
+
+python rainfall_prediction.py "MARATHWADA" SEP
+
+
+
+ANDAMAN & NICOBAR ISLANDS
+ARUNACHAL PRADESH
+ASSAM & MEGHALAYA
+BIHAR
+WEST_RAJASTHAN
+
+
+JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC

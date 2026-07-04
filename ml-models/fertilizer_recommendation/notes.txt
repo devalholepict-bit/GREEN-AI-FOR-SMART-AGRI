@@ -1,0 +1,21 @@
+| Input | Meaning     |
+| ----- | ----------- |
+| 50    | Nitrogen    |
+| 40    | Phosphorus  |
+| 30    | Potassium   |
+| 25    | Temperature |
+| 60    | Humidity    |
+| 45    | Moisture    |
+| Sandy | Soil type   |
+| Maize | Crop type   |
+
+
+
+60 40 20 26 65 50 Sandy Maize
+
+45 30 25 24 60 40 Loamy Wheat
+
+70 50 40 30 70 55 Clayey Rice
+
+
+50 35 30 27 68 48 Sandy Cotton

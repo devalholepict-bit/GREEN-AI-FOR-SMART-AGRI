@@ -1,0 +1,14 @@
+python ZDecision_Tree_Model_Call.py Tamil_Nadu Coimbatore WholeYear
+
+python ZDecision_Tree_Model_Call.py Uttar_Pradesh Lucknow Rabi
+
+python ZDecision_Tree_Model_Call.py Karnataka Mysore Kharif
+
+python ZDecision_Tree_Model_Call.py Maharashtra Nashik Rabi
+
+
+python ZDecision_Tree_Model_Call.py Maharashtra Pune Kharif
+
+
+
+python ZDecision_Tree_Model_Call.py Maharashtra Nagpur Kharif

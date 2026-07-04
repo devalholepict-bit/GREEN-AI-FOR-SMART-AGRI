@@ -1,0 +1,26 @@
+python recommend.py 90 42 43 21 82 6.5 203
+
+python recommend.py 60 40 20 26 65 6.2 120
+
+python recommend.py 20 60 20 24 70 6.0 150
+
+
+python recommend.py 80 50 40 28 75 6.8 180
+
+
+python recommend.py 40 60 80 30 85 7.0 200
+
+
+python recommend.py 30 30 40 22 60 6.3 110
+
+
+
+| Parameter   | Meaning                                     |
+| ----------- | ------------------------------------------- |
+| N           | Nitrogen content in the soil                |
+| P           | Phosphorus content in the soil              |
+| K           | Potassium content in the soil               |
+| Temperature | Average temperature of the environment (°C) |
+| Humidity    | Moisture level in the air (%)               |
+| pH          | Acidity or alkalinity of the soil           |
+| Rainfall    | Amount of rainfall received (mm)            |

@@ -1,0 +1,6 @@
+python yield_prediction.py Maharashtra Kolhapur Kharif Rice 150
+python yield_prediction.py Maharashtra Pune Rabi Wheat 200
+python yield_prediction.py Maharashtra Amravati Kharif Cotton 300
+
+Agar ****** me Kharif season me **** hectare land par **** ugaya jaye,
+ to production kitna ho sakta hai?
